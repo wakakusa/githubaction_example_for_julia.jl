@@ -4,7 +4,11 @@ export examplefunction
 # Write your package code here.
 """
 examplefunction(a,b)
+
+return a+b
+
 """
-function examplefunction(a,b)
-    return a+b
+    function examplefunction(a,b)
+        return a+b
+    end
 end
