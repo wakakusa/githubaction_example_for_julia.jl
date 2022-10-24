@@ -7,6 +7,8 @@ examplefunction(a,b)
 
 return a+b
 
+# Input
+
 """
     function examplefunction(a,b)
         return a+b
